@@ -1,5 +1,7 @@
 # Juice Shop Soluces Automation
 
+Few automations to solve the OWASP Juice Shop challenges.
+
 ## Requirements
 
  - python3
@@ -22,3 +24,7 @@ git clone https://github.com/mauricelambert/JuiceShopSolucesAutomation.git .
 ```bash
 python3 launcher.py
 ```
+
+## Licence
+
+Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
